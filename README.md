@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @Sidharth465
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Sidharth465/Sidharth465 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Sidharth (@Sidharth465)
+📱 Mobile App Specialist | Full-Stack Developer | Drone Enthusiast
+I’m a React Native Developer based in Delhi who loves turning complex problems into elegant, high-performance mobile experiences. When I'm not debugging or pushing to production, you'll likely find me hiking through the mountains of Himachal or capturing shots with my drone.
